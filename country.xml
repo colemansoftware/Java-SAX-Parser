@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Developer: Coleman DeMars
+-->
+<countries>
+     <country>Albania</country>
+     <country>Andorra</country>
+     <country>Austria</country>
+     <country>Belarus</country>
+     <country>Belgium</country>
+     <country>Agglomeration</country>
+     <country>Bosnia and Herzegovina</country>
+     <country>Bulgaria</country>
+     <country>Croatia</country>
+     <country>Czech Rep.</country>
+     <country>Czech Republic</country>
+     <country>Denmark</country>
+     <country>Estonia</country>
+     <country>Faroe Islands</country>
+     <country>Finland</country>
+     <country>France</country>
+     <country>Germany</country>
+     <country>Munich</country>
+     <country>Cologne</country>
+     <country>Gibraltar</country>
+     <country>Greece</country>
+     <country>Salonika</country>
+     <country>Athinai</country>
+     <country>Guernsey</country>
+     <country>Vatican City</country>
+     <country>Holy See</country>
+     <country>Hungary</country>
+     <country>Iceland</country>
+     <country>Ireland</country>
+     <country>Italy</country>
+     <country>Turin</country>
+     <country>Milan</country>
+     <country>Venice</country>
+     <country>Genua</country>
+     <country>Florence</country>
+     <country>Roma</country>
+     <country>Napels</country>
+     <country>Jersey</country>
+     <country>Latvia</country>
+     <country>Liechtenstein</country>
+     <country>Lithuania</country>
+     <country>Luxembourg</country>
+     <country>Macedonia</country>
+     <country>Malta</country>
+     <country>Man</country>
+     <country>Moldova</country>
+     <country>Monaco</country>
+     <country>Netherlands</country>
+     <country>Norway</country>
+     <country>Poland</country>
+     <country>Warszawa</country>
+     <country>Portugal</country>
+     <country>Lisboa</country>
+     <country>Oporto</country>
+     <country>Romania</country>
+     <country>Bucuresti</country>
+     <country>Russia</country>
+     <country>Zagorsk</country>
+     <country>Oryol</country>
+     <country>Simbirsk</country>
+     <country>Nikolo Beryozovka</country>
+     <country>San Marino</country>
+     <country>Serbia and Montenegro</country>
+     <country>Slovakia</country>
+     <country>Slovenia</country>
+     <country>Spain</country>
+     <country>Donostia</country>
+     <country>Barakaldo</country>
+     <country>Ourense</country>
+     <country>Alacant</country>
+     <country>Elx</country>
+     <country>Svalbard</country>
+     <country>Sweden</country>
+     <country>Switzerland</country>
+     <country>Ukraine</country>
+     <country>Kyyiv</country>
+     <country>United Kingdom</country>
+     <country>Afghanistan</country>
+     <country>Armenia</country>
+     <country>Azerbaijan</country>
+     <country>Bahrain</country>
+     <country>Bangladesh</country>
+     <country>Bhutan</country>
+     <country>Brunei</country>
+     <country>Myanmar</country>
+     <country>Burma</country>
+     <country>Bassein</country>
+     <country>Pegu</country>
+     <country>Yangon</country>
+     <country>Moulmein</country>
+     <country>Akyab</country>
+     <country>Cambodia</country>
+     <country>China</country>
+     <country>Fuzhou</country>
+     <country>Ya Xian</country>
+     <country>Guanghua</country>
+     <country>Fuzhou</country>
+     <country>Dukou</country>
+     <country>Cyprus</country>
+     <country>Georgia</country>
+     <country>India</country>
+     <country>Greater</country>
+     <country>Chennai</country>
+     <country>Delhi</country>
+     <country>Indonesia</country>
+     <country>Iran</country>
+     <country>Kermanshah</country>
+     <country>Iraq</country>
+     <country>Israel</country>
+     <country>Japan</country>
+     <country>Jordan</country>
+     <country>Kazakstan</country>
+     <country>Alma Ata</country>
+     <country>Tselinograd</country>
+     <country>Aktyubinsk</country>
+     <country>Guryev</country>
+     <country>Uralsk</country>
+     <country>Shevchenko</country>
+     <country>Chimkent</country>
+     <country>Karaganda</country>
+     <country>Semipalatinsk</country>
+     <country>Ust Kamenogorsk</country>
+     <country>Petropavlovsk</country>
+     <country>Dzhambul</country>
+     <country>Alma Ata</country>
+     <country>Korea</country>
+     <country>North Korea</country>
+     <country>Songjin</country>
+     <country>Korea</country>
+     <country>South Korea</country>
+     <country>Kuwait</country>
+     <country>Kyrgyzstan</country>
+     <country>Laos</country>
+     <country>Lebanon</country>
+     <country>Macau</country>
+     <country>Malaysia</country>
+     <country>Mongolia</country>
+     <country>Nepal</country>
+     <country>Oman</country>
+     <country>Pakistan</country>
+     <country>Lyallpur</country>
+     <country>Papua New Guinea</country>
+     <country>Philippines</country>
+     <country>Qatar</country>
+     <country>Saudi Arabia</country>
+     <country>Singapore</country>
+     <country>Sri Lanka</country>
+     <country>Syria</country>
+     <country>Taiwan</country>
+     <country>Tajikistan</country>
+     <country>Leninabad</country>
+     <country>Thailand</country>
+     <country>Turkey</country>
+     <country>Urfa</country>
+     <country>Turkmenistan</country>
+     <country>Tashauz</country>
+     <country>Chardzhou</country>
+     <country>UAE</country>
+     <country>United Arab Emirates</country>
+     <country>Uzbekistan</country>
+     <country>Kokand</country>
+     <country>Toshkent</country>
+     <country>Vietnam</country>
+     <country>Saigon</country>
+     <country>Yemen</country>
+     <country>Anguilla</country>
+     <country>Antigua and Barbuda</country>
+     <country>Argentina</country>
+     <country>Aruba</country>
+     <country>Bahamas</country>
+     <country>Barbados</country>
+     <country>Belize</country>
+     <country>Bolivia</country>
+     <country>Brazil</country>
+     <country>British Virgin Islands</country>
+     <country>Canada</country>
+     <country>Cayman Islands</country>
+     <country>Chile</country>
+     <country>Colombia</country>
+     <country>Costa Rica</country>
+     <country>Cuba</country>
+     <country>La Habana</country>
+     <country>La Habana</country>
+     <country>Dominica</country>
+     <country>Dominican Republic</country>
+     <country>Ecuador</country>
+     <country>El Salvador</country>
+     <country>French Guiana</country>
+     <country>Grenada</country>
+     <country>Guadeloupe</country>
+     <country>Guatemala</country>
+     <country>Guatemala City</country>
+     <country>Guyana</country>
+     <country>Haiti</country>
+     <country>Honduras</country>
+     <country>Jamaica</country>
+     <country>Martinique</country>
+     <country>Mexico</country>
+     <country>Llave</country>
+     <country>Mexico City</country>
+     <country>Ciudad de Mexico</country>
+     <country>Montserrat</country>
+     <country>Netherlands Antilles</country>
+     <country>Nicaragua</country>
+     <country>Panama</country>
+     <country>Panama City</country>
+     <country>Paraguay</country>
+     <country>Peru</country>
+     <country>Cusco</country>
+     <country>Puerto Rico</country>
+     <country>Saint Kitts and Nevis</country>
+     <country>Saint Lucia</country>
+     <country>Saint Pierre and Miquelon</country>
+     <country>Saint Vincent and the Grenadines</country>
+     <country>Suriname</country>
+     <country>Trinidad and Tobago</country>
+     <country>Turks and Caicos Islands</country>
+     <country>USA</country>
+     <country>states</country>
+     <country>United States</country>
+     <country>Concord</country>
+     <country>Columbus</country>
+     <country>Boise</country>
+     <country>Springfield</country>
+     <country>Springfield</country>
+     <country>Kansas City</country>
+     <country>Springfield</country>
+     <country>Springfield</country>
+     <country>Kansas City</country>
+     <country>Springfield</country>
+     <country>Springfield</country>
+     <country>Concord</country>
+     <country>Columbus</country>
+     <country>Uruguay</country>
+     <country>Venezuela</country>
+     <country>Virgin Islands</country>
+     <country>American Samoa</country>
+     <country>Australia</country>
+     <country>Bermuda</country>
+     <country>Christmas Island</country>
+     <country>Cocos Islands</country>
+     <country>Cook Islands</country>
+     <country>Falkland Islands</country>
+     <country>Fiji</country>
+     <country>French Polynesia</country>
+     <country>Greenland</country>
+     <country>Guam</country>
+     <country>Kiribati</country>
+     <country>Maldives</country>
+     <country>Marshall Islands</country>
+     <country>Mauritius</country>
+     <country>Micronesia</country>
+     <country>Nauru</country>
+     <country>New Caledonia</country>
+     <country>New Zealand</country>
+     <country>Niue</country>
+     <country>Norfolk Island</country>
+     <country>Northern Mariana Islands</country>
+     <country>Palau</country>
+     <country>Pitcairn Islands</country>
+     <country>Reunion</country>
+     <country>Saint Helena</country>
+     <country>Seychelles</country>
+     <country>Solomon Islands</country>
+     <country>Tonga</country>
+     <country>Tuvalu</country>
+     <country>Vanuatu</country>
+     <country>Wallis and Futuna</country>
+     <country>Western Samoa</country>
+     <country>Algeria</country>
+     <country>Angola</country>
+     <country>Benin</country>
+     <country>Botswana</country>
+     <country>Burkina Faso</country>
+     <country>Burundi</country>
+     <country>Cameroon</country>
+     <country>Cape Verde</country>
+     <country>Central African Republic</country>
+     <country>Chad</country>
+     <country>Comoros</country>
+     <country>Congo</country>
+     <country>Cote dIvoire</country>
+     <country>Djibouti</country>
+     <country>Egypt</country>
+     <country>Equatorial Guinea</country>
+     <country>Eritrea</country>
+     <country>Ethiopia</country>
+     <country>Addis Abeba</country>
+     <country>Harar</country>
+     <country>Jimma</country>
+     <country>Debrezit</country>
+     <country>Gabon</country>
+     <country>Ghana</country>
+     <country>Guinea</country>
+     <country>Guinea-Bissau</country>
+     <country>Kenya</country>
+     <country>Lesotho</country>
+     <country>Liberia</country>
+     <country>Libya</country>
+     <country>Madagascar</country>
+     <country>Diego Suarez</country>
+     <country>Majunga</country>
+     <country>Tamatave</country>
+     <country>Malawi</country>
+     <country>Mali</country>
+     <country>Mauritania</country>
+     <country>Mayotte</country>
+     <country>Morocco</country>
+     <country>Mozambique</country>
+     <country>Namibia</country>
+     <country>Niger</country>
+     <country>Nigeria</country>
+     <country>Rwanda</country>
+     <country>Sao Tome and Principe</country>
+     <country>Senegal</country>
+     <country>Sierra Leone</country>
+     <country>Somalia</country>
+     <country>South Africa</country>
+     <country>Sudan</country>
+     <country>Swaziland</country>
+     <country>Tanzania</country>
+     <country>Gambia</country>
+     <country>Togo</country>
+     <country>Tunisia</country>
+     <country>Uganda</country>
+     <country>Western Sahara</country>
+     <country>Zaire</country>
+     <country>Zambia</country>
+     <country>Zimbabwe</country>
+</countries>
